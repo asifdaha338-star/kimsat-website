@@ -125,13 +125,17 @@ nav a {
 
 section {
   padding: 20px;
-  background: white;
+  background: dark brown;
   margin: 15px;
 }
-
-footer {
-  background: #222;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
+<header>
+  <h1>Khera Institute of Modern Science and Technology</h1>
+  <h3>(KIMSAT)</h3>
+  <p class="affiliation">
+    Affiliated with <strong>University of Sargodha</strong>
+  </p>
+</header>
+<section class="hero">
+  <h2>Welcome to KIMSAT</h2>
+  <p>Affiliated with University of Sargodha</p>
+</section>
